@@ -1,11 +1,3 @@
-<div align="center">
-  
-  # Denys Lytvyn &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
-  **Proactive, Results-Driven Backend Developer**  
-
-</div>
-
 ## 👨‍💻 About Me
 I'm a backend developer specializing in **C#**, **.NET**, and **ASP.NET**, with over **3 years** of experience designing and developing complex, distributed enterprise systems and microservices. I’m all about practical solutions, high-impact results, and clear communication to ensure project success.
 
