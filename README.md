@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Hi there, I'm Denys! &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  # Denys Lytvyn &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
   **Proactive, Results-Driven Backend Developer**  
 
