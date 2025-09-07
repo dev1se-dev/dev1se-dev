@@ -73,11 +73,3 @@ I'm a backend developer specializing in **C#**, **.NET**, and **ASP.NET**, with 
 
 ## 🤝 Let's Connect
 - **Website/Portfolio**: [denn1s0urce](https://denn1s0urce.github.io/.dev/)  
-
----
-
-<p align="center">
-  <i>“Strive not to be a success, but rather to be of value.” – Albert Einstein</i>
-</p>
-
-
