@@ -72,8 +72,6 @@ I'm a backend developer specializing in **C#**, **.NET**, and **ASP.NET**, with 
 ---
 
 ## 🤝 Let's Connect
-- **LinkedIn**: [Denys on LinkedIn](https://www.linkedin.com/in/denys-lytvyn-a83811346/)  
-- **Email**: [denn1s0urce@gmail.com](mailto:denn1s0urce@gmail.com) 
 - **Website/Portfolio**: [denn1s0urce](https://denn1s0urce.github.io/.dev/)  
 
 ---
