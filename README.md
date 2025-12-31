@@ -9,13 +9,13 @@
 
 ---
 
-## 👨‍💻 Professional Summary
+## Professional Summary
 
 Backend Software Engineer with **3+ years of experience** designing scalable .NET services and distributed APIs. Passionate about clean architecture, performance optimization, and delivering production-ready solutions that scale reliably in cloud and self-hosted environments.
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 ### Software Engineer @ [Linkup ST](https://www.linkedin.com/company/linkup-studio)
 **Jun 2023 - Present**
@@ -34,7 +34,7 @@ Backend Software Engineer with **3+ years of experience** designing scalable .NE
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 **Programming Languages**
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -65,7 +65,7 @@ Backend Software Engineer with **3+ years of experience** designing scalable .NE
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### Financial Services Platform - Loan Origination System
 **Technologies:** ASP.NET Core 7, PostgreSQL, Redis, Docker, RabbitMQ
@@ -81,7 +81,7 @@ Backend Software Engineer with **3+ years of experience** designing scalable .NE
 
 ---
 
-## 🎓 Education
+## Education
 
 **Associate Degree of Computer Science**
 Izmail State College, Ukraine | 2019 - 2023
@@ -90,7 +90,7 @@ Izmail State College, Ukraine | 2019 - 2023
 
 ---
 
-## 📫 Get In Touch
+## Get In Touch
 
 Feel free to reach out for collaboration, consulting, or just a tech chat!
 
