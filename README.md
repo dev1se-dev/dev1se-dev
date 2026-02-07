@@ -1,6 +1,4 @@
-# Denys Lytvyn
-
-**Backend Software Engineer** | Seattle, Washington, US
+**Backend Software Engineer** 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=flat&logo=linkedin&logoColor=fff)](https://linkedin.com/in/denys-lytvyn)
 [![Website](https://img.shields.io/badge/Website-111?style=flat&logo=About.me&logoColor=fff)](https://dev1se.com)
